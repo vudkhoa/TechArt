@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace Importer
+namespace Learning.Phase1
 {
     public class TextureAutoImporter : AssetPostprocessor
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Importer
+namespace Learning.Phase1
 {
     public class AudioAutoImporter : AssetPostprocessor
     {
