@@ -4,7 +4,7 @@
 using System;
 
 [Serializable]
-public abstract class StatusEffect
+public abstract class StatusEffect // : ScriptableObject
 {
     public float duration;
     public abstract void Apply();
